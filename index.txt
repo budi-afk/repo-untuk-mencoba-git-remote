@@ -1,1 +1,12 @@
 test
+
+alias graph="git log --all --decorate --oneline --graph"
+
+cara clone github ke local
+    git clone <url>
+
+git remote
+git remote -v
+
+jika kita sudah melakukan commit di local, maka harus push ke github
+    git push // harus login dulu
