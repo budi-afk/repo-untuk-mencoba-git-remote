@@ -10,3 +10,7 @@ git remote -v
 
 jika kita sudah melakukan commit di local, maka harus push ke github
     git push // harus login dulu
+
+git fetch //untuk nge-check repo di github sama atau tidak dengan di local
+git status
+git pull
